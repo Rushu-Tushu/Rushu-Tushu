@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hello
 
-<!--
-**Rushu-Tushu/Rushu-Tushu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build systems, not just code.  
+Focused on creating clean, scalable, and meaningful digital products.
 
-Here are some ideas to get you started:
+**Tagline:**  
+Builder mindset · System thinker · Long-term player
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tech Stack
+<p align="left">
+  <!-- Skill icons from skill-icons repo -->
+  <img src="https://skillicons.dev/icons?i=js,ts,spring,nodejs,express" />
+</p>
+
+---
+
+### 🌐 Connect
+- 🌍 Portfolio: https://rushikeshsapkal.vercel.app  
+- 💼 LinkedIn: https://www.linkedin.com/in/rushikesh-sapkal007/  
+- 🐦 X (Twitter): https://x.com/Rushu_Tushu  
+- 🧑‍💻 GitHub: https://github.com/Rushu-Tushu  
+
+---
+
+> “Consistency builds identity. Systems build impact.”
+
