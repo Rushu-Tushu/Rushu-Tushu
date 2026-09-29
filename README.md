@@ -91,10 +91,36 @@ I mainly work around development and backend systems, while constantly picking u
 ## 🌐 Elsewhere
 
 <p align="left">
-  <a href="https://rushu.me" target="_blank"><img src="https://png.pngtree.com/png-clipart/20230915/original/pngtree-global-icon-for-web-design-logo-app-isolated-vector-vector-png-image_12189325.png" alt="Portfolio" /></a>
-  <a href="https://x.com/Rushu_Tushu" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="X / Twitter" /></a>
-  <a href="https://www.linkedin.com/in/rushikesh-sapkal" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/rushu_tushu" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+  <a href="https://rushu.me" target="_blank">
+    <img
+      src="https://png.pngtree.com/png-clipart/20230915/original/pngtree-global-icon-for-web-design-logo-app-isolated-vector-vector-png-image_12189325.png"
+      alt="Portfolio"
+      width="48"
+      height="48"
+      style="object-fit: contain; vertical-align: middle;"
+    />
+  </a>
+
+  <a href="https://x.com/Rushu_Tushu" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=twitter"
+      alt="X / Twitter"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/rushikesh-sapkal007/" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://www.instagram.com/rushu_tushu" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=instagram"
+      alt="Instagram"
+    />
+  </a>
 </p>
 
 <p align="left">
