@@ -11,11 +11,11 @@ I mainly work around development and backend systems, while constantly picking u
 ## 🧠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,ts,spring,nodejs,express,react,python,c,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,spring,java,go,docker,python,c,cpp,html,css" />
 </p>
 
 <p>
-  <sub>Currently learning, experimenting, and trying not to stay in one box.</sub>
+  <sub>Learning, experimenting, and trying.</sub>
 </p>
 
 ---
@@ -78,7 +78,7 @@ I mainly work around development and backend systems, while constantly picking u
 
 <!-- ON THIS DAY END -->
 
----
+<!-- ---
 
 ## 📊 GitHub Stats
 
@@ -86,14 +86,14 @@ I mainly work around development and backend systems, while constantly picking u
   <img src="https://github-readme-stats.vercel.app/api?username=Rushu-Tushu&show_icons=true&theme=gruvbox" />
 </p>
 
----
+--- -->
 
 ## 🌐 Elsewhere
 
 <p align="left">
-  <a href="https://rushikeshsapkal.vercel.app" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" /></a>
+  <a href="https://rushu.me" target="_blank"><img src="https://png.pngtree.com/png-clipart/20230915/original/pngtree-global-icon-for-web-design-logo-app-isolated-vector-vector-png-image_12189325.png" alt="Portfolio" /></a>
   <a href="https://x.com/Rushu_Tushu" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="X / Twitter" /></a>
-  <a href="https://www.linkedin.com/in/rushikesh-sapkal007/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/rushikesh-sapkal" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/rushu_tushu" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 </p>
 
