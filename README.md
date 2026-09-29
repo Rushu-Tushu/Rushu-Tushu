@@ -32,42 +32,41 @@ I mainly work around development and backend systems, while constantly picking u
 
 <br>
 
-<p align="center">
-  <sub>01 · 1994</sub>
-  <br><br>
-  <strong>HotJava is demonstrated</strong>
-  <br><br>
-  Programmers at Sun Microsystems demonstrated HotJava, an early web browser built around Java and its idea of portable applications.
-  <br><br>
-  <a href="https://www.computerhistory.org/tdih/september/29/"><sub>Read more ↗</sub></a>
-</p>
 
+<p align="center">
+  <sub>01 · 2004</sub>
+  <br><br>
+  <strong>4179 Toutatis</strong>
+  <br><br>
+  The asteroid 4179 Toutatis passes within four lunar distances of Earth.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/4179_Toutatis"><sub>Read more ↗</sub></a>
+</p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>02 · 1988</sub>
+  <sub>02 · 1954</sub>
   <br><br>
-  <strong>Discovery returns the Shuttle program to flight</strong>
+  <strong>CERN</strong>
   <br><br>
-  Space Shuttle Discovery launched on September 29, marking the return of crewed U.S. spaceflight after the Challenger accident.
+  The convention establishing CERN (the European Organization for Nuclear Research) is signed.
   <br><br>
-  <a href="https://www.nasa.gov/history/35-years-ago-sts-26-returns-to-space/"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/CERN"><sub>Read more ↗</sub></a>
 </p>
-
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 1831</sub>
+  <sub>03 · 2019</sub>
   <br><br>
-  <strong>Faraday demonstrates electromagnetic induction</strong>
+  <strong>2019 Afghan presidential election</strong>
   <br><br>
-  Michael Faraday showed that a changing magnetic field can induce an electric current, laying the foundation for modern generators and transformers.
+  Violence and low turnout mar the 2019 Afghan presidential election.
   <br><br>
-  <a href="https://todayinsci.com/9/9_29.htm"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/2019_Afghan_presidential_election"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
