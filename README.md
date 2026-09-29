@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>29 SEPTEMBER</sub>
+  <sub>30 SEPTEMBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 2004</sub>
+  <sub>01 · 1980</sub>
   <br><br>
-  <strong>4179 Toutatis</strong>
+  <strong>Ethernet</strong>
   <br><br>
-  The asteroid 4179 Toutatis passes within four lunar distances of Earth.
+  Ethernet specifications are published by Xerox working with Intel and Digital Equipment Corporation.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/4179_Toutatis"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1954</sub>
-  <br><br>
-  <strong>CERN</strong>
-  <br><br>
-  The convention establishing CERN (the European Organization for Nuclear Research) is signed.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/CERN"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Ethernet"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2019</sub>
+  <sub>02 · 1994</sub>
   <br><br>
-  <strong>2019 Afghan presidential election</strong>
+  <strong>Space Shuttle Endeavour</strong>
   <br><br>
-  Violence and low turnout mar the 2019 Afghan presidential election.
+  Space Shuttle Endeavour is launched on STS-68.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/2019_Afghan_presidential_election"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 1999</sub>
+  <br><br>
+  <strong>Tokaimura nuclear accidents</strong>
+  <br><br>
+  The Tokaimura nuclear accident causes the deaths of two technicians in Japan's second-worst nuclear accident.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Tokaimura_nuclear_accidents"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
