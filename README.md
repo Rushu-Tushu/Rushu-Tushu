@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>30 SEPTEMBER</sub>
+  <sub>01 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1980</sub>
+  <sub>01 · 2001</sub>
   <br><br>
-  <strong>Ethernet</strong>
+  <strong>3G</strong>
   <br><br>
-  Ethernet specifications are published by Xerox working with Intel and Digital Equipment Corporation.
+  3G wireless technology first becomes available when it is adopted by Japanese telecommunications company NTT Docomo.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Ethernet"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1994</sub>
-  <br><br>
-  <strong>Space Shuttle Endeavour</strong>
-  <br><br>
-  Space Shuttle Endeavour is launched on STS-68.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/3G"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 1999</sub>
+  <sub>02 · 1962</sub>
   <br><br>
-  <strong>Tokaimura nuclear accidents</strong>
+  <strong>James Meredith</strong>
   <br><br>
-  The Tokaimura nuclear accident causes the deaths of two technicians in Japan's second-worst nuclear accident.
+  James Meredith becomes the first African American student to enroll at the University of Mississippi.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Tokaimura_nuclear_accidents"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/James_Meredith"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2021</sub>
+  <br><br>
+  <strong>Expo 2020</strong>
+  <br><br>
+  The 2020 World Expo in Dubai begins. Its opening was originally scheduled for 20 October 2020 but was delayed due to the COVID-19 pandemic.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Expo_2020"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
