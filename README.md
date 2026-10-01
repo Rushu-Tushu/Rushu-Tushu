@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>01 OCTOBER</sub>
+  <sub>02 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 2001</sub>
+  <sub>01 · 1967</sub>
   <br><br>
-  <strong>3G</strong>
+  <strong>Thurgood Marshall</strong>
   <br><br>
-  3G wireless technology first becomes available when it is adopted by Japanese telecommunications company NTT Docomo.
+  Thurgood Marshall is sworn in as the first African-American justice of the United States Supreme Court.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/3G"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1962</sub>
-  <br><br>
-  <strong>James Meredith</strong>
-  <br><br>
-  James Meredith becomes the first African American student to enroll at the University of Mississippi.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/James_Meredith"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Thurgood_Marshall"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2021</sub>
+  <sub>02 · 2007</sub>
   <br><br>
-  <strong>Expo 2020</strong>
+  <strong>Roh Moo-hyun</strong>
   <br><br>
-  The 2020 World Expo in Dubai begins. Its opening was originally scheduled for 20 October 2020 but was delayed due to the COVID-19 pandemic.
+  President Roh Moo-hyun of South Korea goes to North Korea for an Inter-Korean summit with North Korean leader Kim Jong-il.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Expo_2020"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Roh_Moo-hyun"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2004</sub>
+  <br><br>
+  <strong>Parkrun</strong>
+  <br><br>
+  The first parkrun, then known as the Bushy Park Time Trial, takes place in Bushy Park, London, UK.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Parkrun"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
