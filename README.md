@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>02 OCTOBER</sub>
+  <sub>03 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1967</sub>
+  <sub>01 · 1962</sub>
   <br><br>
-  <strong>Thurgood Marshall</strong>
+  <strong>Project Mercury</strong>
   <br><br>
-  Thurgood Marshall is sworn in as the first African-American justice of the United States Supreme Court.
+  Project Mercury: US astronaut Wally Schirra, in Sigma 7, is launched from Cape Canaveral for a six-orbit flight.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Thurgood_Marshall"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 2007</sub>
-  <br><br>
-  <strong>Roh Moo-hyun</strong>
-  <br><br>
-  President Roh Moo-hyun of South Korea goes to North Korea for an Inter-Korean summit with North Korean leader Kim Jong-il.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Roh_Moo-hyun"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Project_Mercury"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2004</sub>
+  <sub>02 · 2024</sub>
   <br><br>
-  <strong>Parkrun</strong>
+  <strong>Bengali language</strong>
   <br><br>
-  The first parkrun, then known as the Bushy Park Time Trial, takes place in Bushy Park, London, UK.
+  Bengali, Assamese, Marathi, Pali and Prakrit are accorded the Classical language status by the Government of India
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Parkrun"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Bengali_language"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2023</sub>
+  <br><br>
+  <strong>Wab Kinew</strong>
+  <br><br>
+  Wab Kinew is elected to be the first First Nations Premier of a Canadian province in the 2023 Manitoba general election
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Wab_Kinew"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
