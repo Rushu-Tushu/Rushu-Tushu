@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>03 OCTOBER</sub>
+  <sub>04 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1962</sub>
+  <sub>01 · 1957</sub>
   <br><br>
-  <strong>Project Mercury</strong>
+  <strong>Sputnik 1</strong>
   <br><br>
-  Project Mercury: US astronaut Wally Schirra, in Sigma 7, is launched from Cape Canaveral for a six-orbit flight.
+  Sputnik 1 becomes the first artificial satellite to orbit the Earth.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Project_Mercury"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 2024</sub>
-  <br><br>
-  <strong>Bengali language</strong>
-  <br><br>
-  Bengali, Assamese, Marathi, Pali and Prakrit are accorded the Classical language status by the Government of India
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Bengali_language"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Sputnik_1"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2023</sub>
+  <sub>02 · 1830</sub>
   <br><br>
-  <strong>Wab Kinew</strong>
+  <strong>Belgian Revolution</strong>
   <br><br>
-  Wab Kinew is elected to be the first First Nations Premier of a Canadian province in the 2023 Manitoba general election
+  The Belgian Revolution takes legal form when the provisional government secedes from the Netherlands.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Wab_Kinew"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Belgian_Revolution"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2017</sub>
+  <br><br>
+  <strong>United States Army Special Forces</strong>
+  <br><br>
+  Joint Nigerien-American Special Forces are ambushed by Islamic State militants outside the village of Tongo Tongo.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/United_States_Army_Special_Forces"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
