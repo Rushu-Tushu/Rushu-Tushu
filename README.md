@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>04 OCTOBER</sub>
+  <sub>05 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1957</sub>
+  <sub>01 · 1970</sub>
   <br><br>
-  <strong>Sputnik 1</strong>
+  <strong>James Cross</strong>
   <br><br>
-  Sputnik 1 becomes the first artificial satellite to orbit the Earth.
+  The British Trade Commissioner, James Cross, is kidnapped by members of the Front de libération du Québec, triggering the October Crisis in Canada.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Sputnik_1"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1830</sub>
-  <br><br>
-  <strong>Belgian Revolution</strong>
-  <br><br>
-  The Belgian Revolution takes legal form when the provisional government secedes from the Netherlands.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Belgian_Revolution"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/James_Cross"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2017</sub>
+  <sub>02 · 1966</sub>
   <br><br>
-  <strong>United States Army Special Forces</strong>
+  <strong>Enrico Fermi Nuclear Generating Station</strong>
   <br><br>
-  Joint Nigerien-American Special Forces are ambushed by Islamic State militants outside the village of Tongo Tongo.
+  A reactor at the Enrico Fermi Nuclear Generating Station near Detroit suffers a partial meltdown.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/United_States_Army_Special_Forces"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Enrico_Fermi_Nuclear_Generating_Station"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2021</sub>
+  <br><br>
+  <strong>Windows 11</strong>
+  <br><br>
+  Windows 11 is released to the general public.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Windows_11"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
