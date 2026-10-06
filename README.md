@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>05 OCTOBER</sub>
+  <sub>06 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1970</sub>
+  <sub>01 · 1995</sub>
   <br><br>
-  <strong>James Cross</strong>
+  <strong>51 Pegasi b</strong>
   <br><br>
-  The British Trade Commissioner, James Cross, is kidnapped by members of the Front de libération du Québec, triggering the October Crisis in Canada.
+  The first planet orbiting another sun, 51 Pegasi b, is discovered.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/James_Cross"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1966</sub>
-  <br><br>
-  <strong>Enrico Fermi Nuclear Generating Station</strong>
-  <br><br>
-  A reactor at the Enrico Fermi Nuclear Generating Station near Detroit suffers a partial meltdown.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Enrico_Fermi_Nuclear_Generating_Station"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/51_Pegasi_b"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2021</sub>
+  <sub>02 · 1990</sub>
   <br><br>
-  <strong>Windows 11</strong>
+  <strong>Space Shuttle Discovery</strong>
   <br><br>
-  Windows 11 is released to the general public.
+  Space Shuttle Discovery is launched on STS-41, and deploys the Ulysses space probe to study the Sun's polar regions.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Windows_11"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Space_Shuttle_Discovery"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2025</sub>
+  <br><br>
+  <strong>2025 Alberta teachers' strike</strong>
+  <br><br>
+  The 2025 Alberta teachers' strike begins, leaving approximately 51,000 teachers off-work, impacting about 730,000 Albertan students.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/2025_Alberta_teachers'_strike"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
