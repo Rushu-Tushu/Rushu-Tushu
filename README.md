@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>06 OCTOBER</sub>
+  <sub>07 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1995</sub>
+  <sub>01 · 2002</sub>
   <br><br>
-  <strong>51 Pegasi b</strong>
+  <strong>Space Shuttle Atlantis</strong>
   <br><br>
-  The first planet orbiting another sun, 51 Pegasi b, is discovered.
+  The Space Shuttle Atlantis launches on STS-112 to continue assembly of the International Space Station.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/51_Pegasi_b"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1990</sub>
-  <br><br>
-  <strong>Space Shuttle Discovery</strong>
-  <br><br>
-  Space Shuttle Discovery is launched on STS-41, and deploys the Ulysses space probe to study the Sun's polar regions.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Space_Shuttle_Discovery"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2025</sub>
+  <sub>02 · 1988</sub>
   <br><br>
-  <strong>2025 Alberta teachers' strike</strong>
+  <strong>Operation Breakthrough</strong>
   <br><br>
-  The 2025 Alberta teachers' strike begins, leaving approximately 51,000 teachers off-work, impacting about 730,000 Albertan students.
+  A hunter discovers three gray whales trapped under the ice near Alaska; the situation becomes a multinational effort to free the whales.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/2025_Alberta_teachers'_strike"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Operation_Breakthrough"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2008</sub>
+  <br><br>
+  <strong>2008 TC3</strong>
+  <br><br>
+  Asteroid 2008 TC3 impacts the Earth over Sudan, the first time an asteroid impact is detected prior to its entry into Earth's atmosphere.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/2008_TC3"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
