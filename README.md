@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>07 OCTOBER</sub>
+  <sub>08 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 2002</sub>
+  <sub>01 · 1829</sub>
   <br><br>
-  <strong>Space Shuttle Atlantis</strong>
+  <strong>Stephenson's Rocket</strong>
   <br><br>
-  The Space Shuttle Atlantis launches on STS-112 to continue assembly of the International Space Station.
+  Stephenson's Rocket wins the Rainhill Trials.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1988</sub>
-  <br><br>
-  <strong>Operation Breakthrough</strong>
-  <br><br>
-  A hunter discovers three gray whales trapped under the ice near Alaska; the situation becomes a multinational effort to free the whales.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Operation_Breakthrough"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Stephenson's_Rocket"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2008</sub>
+  <sub>02 · 2019</sub>
   <br><br>
-  <strong>2008 TC3</strong>
+  <strong>Extinction Rebellion</strong>
   <br><br>
-  Asteroid 2008 TC3 impacts the Earth over Sudan, the first time an asteroid impact is detected prior to its entry into Earth's atmosphere.
+  About 200 Extinction Rebellion activists block the gates of Leinster House (parliament) in the Republic of Ireland.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/2008_TC3"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Extinction_Rebellion"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2014</sub>
+  <br><br>
+  <strong>Thomas Eric Duncan</strong>
+  <br><br>
+  Thomas Eric Duncan, the first person in the United States to be diagnosed with Ebola, dies.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Thomas_Eric_Duncan"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
