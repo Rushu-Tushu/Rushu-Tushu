@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>08 OCTOBER</sub>
+  <sub>09 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1829</sub>
+  <sub>01 · 2009</sub>
   <br><br>
-  <strong>Stephenson's Rocket</strong>
+  <strong>Lunar Precursor Robotic Program</strong>
   <br><br>
-  Stephenson's Rocket wins the Rainhill Trials.
+  First lunar impact of NASA's Lunar Precursor Robotic Program.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Stephenson's_Rocket"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 2019</sub>
-  <br><br>
-  <strong>Extinction Rebellion</strong>
-  <br><br>
-  About 200 Extinction Rebellion activists block the gates of Leinster House (parliament) in the Republic of Ireland.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Extinction_Rebellion"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Lunar_Precursor_Robotic_Program"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2014</sub>
+  <sub>02 · 1934</sub>
   <br><br>
-  <strong>Thomas Eric Duncan</strong>
+  <strong>Ustaše</strong>
   <br><br>
-  Thomas Eric Duncan, the first person in the United States to be diagnosed with Ebola, dies.
+  An Ustashe assassin kills King Alexander I of Yugoslavia and Louis Barthou, Foreign Minister of France, in Marseille.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Thomas_Eric_Duncan"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Usta%C5%A1e"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2006</sub>
+  <br><br>
+  <strong>2006 North Korean nuclear test</strong>
+  <br><br>
+  North Korea conducts its first nuclear test.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/2006_North_Korean_nuclear_test"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
