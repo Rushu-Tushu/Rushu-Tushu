@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>09 OCTOBER</sub>
+  <sub>10 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 2009</sub>
+  <sub>01 · 1846</sub>
   <br><br>
-  <strong>Lunar Precursor Robotic Program</strong>
+  <strong>Triton (moon)</strong>
   <br><br>
-  First lunar impact of NASA's Lunar Precursor Robotic Program.
+  Triton, the largest moon of the planet Neptune, is discovered by English astronomer William Lassell.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Lunar_Precursor_Robotic_Program"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1934</sub>
-  <br><br>
-  <strong>Ustaše</strong>
-  <br><br>
-  An Ustashe assassin kills King Alexander I of Yugoslavia and Louis Barthou, Foreign Minister of France, in Marseille.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Usta%C5%A1e"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Triton_(moon)"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2006</sub>
+  <sub>02 · 1979</sub>
   <br><br>
-  <strong>2006 North Korean nuclear test</strong>
+  <strong>Olkiluoto Nuclear Power Plant</strong>
   <br><br>
-  North Korea conducts its first nuclear test.
+  The Olkiluoto Nuclear Power Plant began operations in Eurajoki, Satakunta, Finland.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/2006_North_Korean_nuclear_test"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Olkiluoto_Nuclear_Power_Plant"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2018</sub>
+  <br><br>
+  <strong>National Fire and Rescue Administration</strong>
+  <br><br>
+  The National Fire and Rescue Administration is founded, replacing the China Fire Services  and the People's Armed Police Forestry Corps  as China's primary firefighting agency.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/National_Fire_and_Rescue_Administration"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
