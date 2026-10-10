@@ -27,33 +27,33 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>10 OCTOBER</sub>
+  <sub>11 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1846</sub>
+  <sub>01 · 2000</sub>
   <br><br>
-  <strong>Triton (moon)</strong>
+  <strong>STS-92</strong>
   <br><br>
-  Triton, the largest moon of the planet Neptune, is discovered by English astronomer William Lassell.
+  NASA launches STS-92, the 100th Space Shuttle mission.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Triton_(moon)"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/STS-92"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>02 · 1979</sub>
+  <sub>02 · 1890</sub>
   <br><br>
-  <strong>Olkiluoto Nuclear Power Plant</strong>
+  <strong>Daughters of the American Revolution</strong>
   <br><br>
-  The Olkiluoto Nuclear Power Plant began operations in Eurajoki, Satakunta, Finland.
+  In Washington, D.C., the Daughters of the American Revolution is founded.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Olkiluoto_Nuclear_Power_Plant"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Daughters_of_the_American_Revolution"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
@@ -62,11 +62,11 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <sub>03 · 2018</sub>
   <br><br>
-  <strong>National Fire and Rescue Administration</strong>
+  <strong>Soyuz MS-10</strong>
   <br><br>
-  The National Fire and Rescue Administration is founded, replacing the China Fire Services  and the People's Armed Police Forestry Corps  as China's primary firefighting agency.
+  Soyuz MS-10, launching an intended crew for the ISS, suffers an in-flight abort. The crew lands safely.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/National_Fire_and_Rescue_Administration"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Soyuz_MS-10"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
