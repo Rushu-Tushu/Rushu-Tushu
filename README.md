@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>11 OCTOBER</sub>
+  <sub>12 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 2000</sub>
+  <sub>01 · 1406</sub>
   <br><br>
-  <strong>STS-92</strong>
+  <strong>Chen Yanxiang</strong>
   <br><br>
-  NASA launches STS-92, the 100th Space Shuttle mission.
+  Chen Yanxiang, the only person from Indonesia known to have visited dynastic Korea, reaches Seoul after having set out from Java four months before.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/STS-92"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1890</sub>
-  <br><br>
-  <strong>Daughters of the American Revolution</strong>
-  <br><br>
-  In Washington, D.C., the Daughters of the American Revolution is founded.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Daughters_of_the_American_Revolution"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Chen_Yanxiang"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2018</sub>
+  <sub>02 · 2005</sub>
   <br><br>
-  <strong>Soyuz MS-10</strong>
+  <strong>Shenzhou 6</strong>
   <br><br>
-  Soyuz MS-10, launching an intended crew for the ISS, suffers an in-flight abort. The crew lands safely.
+  The second Chinese human spaceflight, Shenzhou 6, is launched, carrying two cosmonauts in orbit for five days.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Soyuz_MS-10"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Shenzhou_6"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 1959</sub>
+  <br><br>
+  <strong>APRA Rebelde</strong>
+  <br><br>
+  At the national congress of the American Popular Revolutionary Alliance in Peru, a group of leftist radicals are expelled from the party who later form APRA Rebelde.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/APRA_Rebelde"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
