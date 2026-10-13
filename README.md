@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>12 OCTOBER</sub>
+  <sub>13 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1406</sub>
+  <sub>01 · 1983</sub>
   <br><br>
-  <strong>Chen Yanxiang</strong>
+  <strong>Ameritech Cellular</strong>
   <br><br>
-  Chen Yanxiang, the only person from Indonesia known to have visited dynastic Korea, reaches Seoul after having set out from Java four months before.
+  Ameritech Mobile Communications launches the first US cellular network in Chicago.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Chen_Yanxiang"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 2005</sub>
-  <br><br>
-  <strong>Shenzhou 6</strong>
-  <br><br>
-  The second Chinese human spaceflight, Shenzhou 6, is launched, carrying two cosmonauts in orbit for five days.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Shenzhou_6"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Ameritech_Cellular"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 1959</sub>
+  <sub>02 · 2019</sub>
   <br><br>
-  <strong>APRA Rebelde</strong>
+  <strong>Brigid Kosgei</strong>
   <br><br>
-  At the national congress of the American Popular Revolutionary Alliance in Peru, a group of leftist radicals are expelled from the party who later form APRA Rebelde.
+  Kenyan Brigid Kosgei sets a new world record for a woman runner with a time of 2:14:04 at the 2019 Chicago Marathon.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/APRA_Rebelde"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Brigid_Kosgei"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2016</sub>
+  <br><br>
+  <strong>Maldives</strong>
+  <br><br>
+  The Maldives announces its decision to withdraw from the Commonwealth of Nations.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Maldives"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
