@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>13 OCTOBER</sub>
+  <sub>14 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1983</sub>
+  <sub>01 · 1968</sub>
   <br><br>
-  <strong>Ameritech Cellular</strong>
+  <strong>Apollo program</strong>
   <br><br>
-  Ameritech Mobile Communications launches the first US cellular network in Chicago.
+  Apollo program: The first live television broadcast by American astronauts in orbit is performed by the Apollo 7 crew.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Ameritech_Cellular"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 2019</sub>
-  <br><br>
-  <strong>Brigid Kosgei</strong>
-  <br><br>
-  Kenyan Brigid Kosgei sets a new world record for a woman runner with a time of 2:14:04 at the 2019 Chicago Marathon.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Brigid_Kosgei"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Apollo_program"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2016</sub>
+  <sub>02 · 1930</sub>
   <br><br>
-  <strong>Maldives</strong>
+  <strong>President of Finland</strong>
   <br><br>
-  The Maldives announces its decision to withdraw from the Commonwealth of Nations.
+  The former and first President of Finland, K. J. Ståhlberg, and his wife, Ester Ståhlberg, are kidnapped from their home by members of the far-right Lapua Movement.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Maldives"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/President_of_Finland"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2025</sub>
+  <br><br>
+  <strong>2025 Malagasy coup d'état</strong>
+  <br><br>
+  A coup d'état successfully overthrows Malagasy president Andry Rajoelina.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/2025_Malagasy_coup_d'%C3%A9tat"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
