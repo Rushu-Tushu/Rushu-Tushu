@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>14 OCTOBER</sub>
+  <sub>15 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1968</sub>
+  <sub>01 · 1956</sub>
   <br><br>
-  <strong>Apollo program</strong>
+  <strong>Fortran</strong>
   <br><br>
-  Apollo program: The first live television broadcast by American astronauts in orbit is performed by the Apollo 7 crew.
+  FORTRAN, the first modern computer language, is first shared with the coding community.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Apollo_program"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1930</sub>
-  <br><br>
-  <strong>President of Finland</strong>
-  <br><br>
-  The former and first President of Finland, K. J. Ståhlberg, and his wife, Ester Ståhlberg, are kidnapped from their home by members of the far-right Lapua Movement.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/President_of_Finland"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Fortran"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2025</sub>
+  <sub>02 · 2001</sub>
   <br><br>
-  <strong>2025 Malagasy coup d'état</strong>
+  <strong>Galileo (spacecraft)</strong>
   <br><br>
-  A coup d'état successfully overthrows Malagasy president Andry Rajoelina.
+  NASA's Galileo spacecraft passes within 112 miles (180 km) of Jupiter's moon Io.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/2025_Malagasy_coup_d'%C3%A9tat"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Galileo_(spacecraft)"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2016</sub>
+  <br><br>
+  <strong>Montreal Protocol</strong>
+  <br><br>
+  One hundred and ninety-seven nations amend the Montreal Protocol to include a phase-out of hydrofluorocarbons.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Montreal_Protocol"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
