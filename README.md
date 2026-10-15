@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>15 OCTOBER</sub>
+  <sub>16 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1956</sub>
+  <sub>01 · 1962</sub>
   <br><br>
-  <strong>Fortran</strong>
+  <strong>Cuban Missile Crisis</strong>
   <br><br>
-  FORTRAN, the first modern computer language, is first shared with the coding community.
+  Cuban Missile Crisis begins: U.S. President John F. Kennedy is informed of photos taken on October 14 by a U-2 showing nuclear missiles (the crisis will last for 13 days starting from this point).
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Fortran"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 2001</sub>
-  <br><br>
-  <strong>Galileo (spacecraft)</strong>
-  <br><br>
-  NASA's Galileo spacecraft passes within 112 miles (180 km) of Jupiter's moon Io.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Galileo_(spacecraft)"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Cuban_Missile_Crisis"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2016</sub>
+  <sub>02 · 1964</sub>
   <br><br>
-  <strong>Montreal Protocol</strong>
+  <strong>Project 596</strong>
   <br><br>
-  One hundred and ninety-seven nations amend the Montreal Protocol to include a phase-out of hydrofluorocarbons.
+  China detonates its first nuclear weapon.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Montreal_Protocol"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Project_596"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2002</sub>
+  <br><br>
+  <strong>Bibliotheca Alexandrina</strong>
+  <br><br>
+  The Bibliotheca Alexandrina opens in Egypt, commemorating the ancient library of Alexandria.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Bibliotheca_Alexandrina"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
