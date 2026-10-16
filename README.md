@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>16 OCTOBER</sub>
+  <sub>17 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1962</sub>
+  <sub>01 · 1604</sub>
   <br><br>
-  <strong>Cuban Missile Crisis</strong>
+  <strong>Kepler's Supernova</strong>
   <br><br>
-  Cuban Missile Crisis begins: U.S. President John F. Kennedy is informed of photos taken on October 14 by a U-2 showing nuclear missiles (the crisis will last for 13 days starting from this point).
+  Kepler's Supernova is observed in the constellation of Ophiuchus.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Cuban_Missile_Crisis"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1964</sub>
-  <br><br>
-  <strong>Project 596</strong>
-  <br><br>
-  China detonates its first nuclear weapon.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Project_596"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Kepler's_Supernova"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2002</sub>
+  <sub>02 · 2019</sub>
   <br><br>
-  <strong>Bibliotheca Alexandrina</strong>
+  <strong>17 October Revolution</strong>
   <br><br>
-  The Bibliotheca Alexandrina opens in Egypt, commemorating the ancient library of Alexandria.
+  The 17 October Revolution starts in Lebanon.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Bibliotheca_Alexandrina"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/17_October_Revolution"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2019</sub>
+  <br><br>
+  <strong>Culiacán</strong>
+  <br><br>
+  Drug dealers in Culiacan, Sinaloa, Mexico force the government to back down on an arrest.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Culiac%C3%A1n"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
