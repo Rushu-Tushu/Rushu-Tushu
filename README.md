@@ -27,20 +27,20 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>17 OCTOBER</sub>
+  <sub>18 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1604</sub>
+  <sub>01 · 1954</sub>
   <br><br>
-  <strong>Kepler's Supernova</strong>
+  <strong>Regency TR-1</strong>
   <br><br>
-  Kepler's Supernova is observed in the constellation of Ophiuchus.
+  Texas Instruments announces the Regency TR-1, the first mass-produced transistor radio.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Kepler's_Supernova"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Regency_TR-1"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
@@ -49,24 +49,24 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <sub>02 · 2019</sub>
   <br><br>
-  <strong>17 October Revolution</strong>
+  <strong>NASA Astronaut Corps</strong>
   <br><br>
-  The 17 October Revolution starts in Lebanon.
+  NASA Astronauts Jessica Meir and Christina Koch take part in the first all-female spacewalk when they venture out of the International Space Station to replace a power controller.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/17_October_Revolution"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/NASA_Astronaut_Corps"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2019</sub>
+  <sub>03 · 1945</sub>
   <br><br>
-  <strong>Culiacán</strong>
+  <strong>Soviet Union</strong>
   <br><br>
-  Drug dealers in Culiacan, Sinaloa, Mexico force the government to back down on an arrest.
+  The USSR's nuclear program receives plans for the United States plutonium bomb from Klaus Fuchs at the Los Alamos National Laboratory.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Culiac%C3%A1n"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Soviet_Union"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
