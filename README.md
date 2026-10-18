@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>18 OCTOBER</sub>
+  <sub>19 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1954</sub>
+  <sub>01 · 2003</sub>
   <br><br>
-  <strong>Regency TR-1</strong>
+  <strong>Mother Teresa</strong>
   <br><br>
-  Texas Instruments announces the Regency TR-1, the first mass-produced transistor radio.
+  Mother Teresa is beatified by Pope John Paul II.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Regency_TR-1"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 2019</sub>
-  <br><br>
-  <strong>NASA Astronaut Corps</strong>
-  <br><br>
-  NASA Astronauts Jessica Meir and Christina Koch take part in the first all-female spacewalk when they venture out of the International Space Station to replace a power controller.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/NASA_Astronaut_Corps"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Mother_Teresa"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 1945</sub>
+  <sub>02 · 1944</sub>
   <br><br>
-  <strong>Soviet Union</strong>
+  <strong>Juan Federico Ponce Vaides</strong>
   <br><br>
-  The USSR's nuclear program receives plans for the United States plutonium bomb from Klaus Fuchs at the Los Alamos National Laboratory.
+  A coup is launched against Juan Federico Ponce Vaides, beginning the ten-year Guatemalan Revolution.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Soviet_Union"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Juan_Federico_Ponce_Vaides"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2025</sub>
+  <br><br>
+  <strong>French Crown Jewels</strong>
+  <br><br>
+  Pieces of the French Crown Jewels are successfully stolen during a heist on the Louvre Museum in Paris..
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/French_Crown_Jewels"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
