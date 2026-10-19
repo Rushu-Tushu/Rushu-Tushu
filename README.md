@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>19 OCTOBER</sub>
+  <sub>20 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 2003</sub>
+  <sub>01 · 2018</sub>
   <br><br>
-  <strong>Mother Teresa</strong>
+  <strong>BepiColombo</strong>
   <br><br>
-  Mother Teresa is beatified by Pope John Paul II.
+  The BepiColombo spacecraft is launched on an Ariane 5 rocket to study Mercury.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Mother_Teresa"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1944</sub>
-  <br><br>
-  <strong>Juan Federico Ponce Vaides</strong>
-  <br><br>
-  A coup is launched against Juan Federico Ponce Vaides, beginning the ten-year Guatemalan Revolution.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Juan_Federico_Ponce_Vaides"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/BepiColombo"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2025</sub>
+  <sub>02 · 2003</sub>
   <br><br>
-  <strong>French Crown Jewels</strong>
+  <strong>Sloan Great Wall</strong>
   <br><br>
-  Pieces of the French Crown Jewels are successfully stolen during a heist on the Louvre Museum in Paris..
+  The Sloan Great Wall, once the largest cosmic structures known to humanity, is discovered by students at Princeton University.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/French_Crown_Jewels"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Sloan_Great_Wall"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2022</sub>
+  <br><br>
+  <strong>Liz Truss</strong>
+  <br><br>
+  Liz Truss steps down as British Prime Minister and leader of the Conservative Party amid the country's political crisis, serving for the least time of any British Prime Minister (49 days).
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Liz_Truss"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
