@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>20 OCTOBER</sub>
+  <sub>21 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 2018</sub>
+  <sub>01 · 1959</sub>
   <br><br>
-  <strong>BepiColombo</strong>
+  <strong>Dwight D. Eisenhower</strong>
   <br><br>
-  The BepiColombo spacecraft is launched on an Ariane 5 rocket to study Mercury.
+  President Dwight D. Eisenhower approves the transfer of all US Army space-related activities to NASA, including most of the Army Ballistic Missile Agency.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/BepiColombo"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 2003</sub>
-  <br><br>
-  <strong>Sloan Great Wall</strong>
-  <br><br>
-  The Sloan Great Wall, once the largest cosmic structures known to humanity, is discovered by students at Princeton University.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Sloan_Great_Wall"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Dwight_D._Eisenhower"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2022</sub>
+  <sub>02 · 1994</sub>
   <br><br>
-  <strong>Liz Truss</strong>
+  <strong>Agreed Framework</strong>
   <br><br>
-  Liz Truss steps down as British Prime Minister and leader of the Conservative Party amid the country's political crisis, serving for the least time of any British Prime Minister (49 days).
+  North Korea and the United States sign an Agreed Framework that requires North Korea to stop its nuclear weapons program and agree to inspections.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Liz_Truss"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Agreed_Framework"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2019</sub>
+  <br><br>
+  <strong>Canada</strong>
+  <br><br>
+  In Canada, the 2019 Canadian federal election ends, resulting in incumbent Prime Minister Justin Trudeau remaining in office, albeit with the Liberal Party in a minority government.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Canada"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
