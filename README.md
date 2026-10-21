@@ -27,33 +27,33 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>21 OCTOBER</sub>
+  <sub>22 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1959</sub>
+  <sub>01 · 2008</sub>
   <br><br>
-  <strong>Dwight D. Eisenhower</strong>
+  <strong>Exploration of the Moon</strong>
   <br><br>
-  President Dwight D. Eisenhower approves the transfer of all US Army space-related activities to NASA, including most of the Army Ballistic Missile Agency.
+  India launches its first uncrewed lunar probe mission Chandrayaan-1.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Dwight_D._Eisenhower"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Exploration_of_the_Moon"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>02 · 1994</sub>
+  <sub>02 · 1962</sub>
   <br><br>
-  <strong>Agreed Framework</strong>
+  <strong>Cuban Missile Crisis</strong>
   <br><br>
-  North Korea and the United States sign an Agreed Framework that requires North Korea to stop its nuclear weapons program and agree to inspections.
+  Cuban Missile Crisis: President Kennedy, after internal counsel from Dwight D. Eisenhower, announces that American reconnaissance planes have discovered Soviet nuclear weapons in Cuba, and that he has ordered a naval "quarantine" of the Communist nation.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Agreed_Framework"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Cuban_Missile_Crisis"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
@@ -62,11 +62,11 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <sub>03 · 2019</sub>
   <br><br>
-  <strong>Canada</strong>
+  <strong>Same-sex marriage in Northern Ireland</strong>
   <br><br>
-  In Canada, the 2019 Canadian federal election ends, resulting in incumbent Prime Minister Justin Trudeau remaining in office, albeit with the Liberal Party in a minority government.
+  Same-sex marriage is legalised, and abortion is decriminalised in Northern Ireland as a result of the Northern Ireland Assembly not being restored.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Canada"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Same-sex_marriage_in_Northern_Ireland"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
