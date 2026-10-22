@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>22 OCTOBER</sub>
+  <sub>23 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 2008</sub>
+  <sub>01 · 2001</sub>
   <br><br>
-  <strong>Exploration of the Moon</strong>
+  <strong>Apple Inc.</strong>
   <br><br>
-  India launches its first uncrewed lunar probe mission Chandrayaan-1.
+  Apple Computer releases the iPod.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Exploration_of_the_Moon"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1962</sub>
-  <br><br>
-  <strong>Cuban Missile Crisis</strong>
-  <br><br>
-  Cuban Missile Crisis: President Kennedy, after internal counsel from Dwight D. Eisenhower, announces that American reconnaissance planes have discovered Soviet nuclear weapons in Cuba, and that he has ordered a naval "quarantine" of the Communist nation.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Cuban_Missile_Crisis"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Apple_Inc."><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2019</sub>
+  <sub>02 · 2007</sub>
   <br><br>
-  <strong>Same-sex marriage in Northern Ireland</strong>
+  <strong>Space Shuttle Discovery</strong>
   <br><br>
-  Same-sex marriage is legalised, and abortion is decriminalised in Northern Ireland as a result of the Northern Ireland Assembly not being restored.
+  Space Shuttle Discovery is launched on STS-120, with Pamela Melroy becoming the second female space shuttle commander.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Same-sex_marriage_in_Northern_Ireland"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Space_Shuttle_Discovery"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 1956</sub>
+  <br><br>
+  <strong>Hungarian Revolution of 1956</strong>
+  <br><br>
+  Secret police shoot several anti-communist protesters, igniting the Hungarian Revolution.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
