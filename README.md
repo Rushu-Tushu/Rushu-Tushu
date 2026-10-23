@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>23 OCTOBER</sub>
+  <sub>24 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 2001</sub>
+  <sub>01 · 2014</sub>
   <br><br>
-  <strong>Apple Inc.</strong>
+  <strong>China National Space Administration</strong>
   <br><br>
-  Apple Computer releases the iPod.
+  The China National Space Administration launches an experimental lunar mission, Chang'e 5-T1, which will loop behind the Moon and return to Earth.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Apple_Inc."><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 2007</sub>
-  <br><br>
-  <strong>Space Shuttle Discovery</strong>
-  <br><br>
-  Space Shuttle Discovery is launched on STS-120, with Pamela Melroy becoming the second female space shuttle commander.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Space_Shuttle_Discovery"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/China_National_Space_Administration"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 1956</sub>
+  <sub>02 · 1930</sub>
   <br><br>
-  <strong>Hungarian Revolution of 1956</strong>
+  <strong>Revolution of 1930</strong>
   <br><br>
-  Secret police shoot several anti-communist protesters, igniting the Hungarian Revolution.
+  A bloodless coup d'état in Brazil ends the First Republic, replacing it with the Vargas Era.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Revolution_of_1930"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2018</sub>
+  <br><br>
+  <strong>Hong Kong–Zhuhai–Macau Bridge</strong>
+  <br><br>
+  The world's longest sea crossing, the Hong Kong–Zhuhai–Macau Bridge, opens for public traffic.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Hong_Kong%E2%80%93Zhuhai%E2%80%93Macau_Bridge"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
