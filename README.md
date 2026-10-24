@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>24 OCTOBER</sub>
+  <sub>25 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 2014</sub>
+  <sub>01 · 2001</sub>
   <br><br>
-  <strong>China National Space Administration</strong>
+  <strong>Microsoft</strong>
   <br><br>
-  The China National Space Administration launches an experimental lunar mission, Chang'e 5-T1, which will loop behind the Moon and return to Earth.
+  Microsoft releases Windows XP, which becomes one of Microsoft's most successful operating systems.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/China_National_Space_Administration"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1930</sub>
-  <br><br>
-  <strong>Revolution of 1930</strong>
-  <br><br>
-  A bloodless coup d'état in Brazil ends the First Republic, replacing it with the Vargas Era.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Revolution_of_1930"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Microsoft"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2018</sub>
+  <sub>02 · 1962</sub>
   <br><br>
-  <strong>Hong Kong–Zhuhai–Macau Bridge</strong>
+  <strong>Cuban Missile Crisis</strong>
   <br><br>
-  The world's longest sea crossing, the Hong Kong–Zhuhai–Macau Bridge, opens for public traffic.
+  Cuban Missile Crisis: Adlai Stevenson shows the United Nations Security Council reconnaissance photographs of Soviet ballistic missiles in Cuba.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Hong_Kong%E2%80%93Zhuhai%E2%80%93Macau_Bridge"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Cuban_Missile_Crisis"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 1917</sub>
+  <br><br>
+  <strong>Old Style and New Style dates</strong>
+  <br><br>
+  Old Style date of the October Revolution in Russia.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Old_Style_and_New_Style_dates"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
