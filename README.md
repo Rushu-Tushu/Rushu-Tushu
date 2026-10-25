@@ -27,18 +27,18 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>25 OCTOBER</sub>
+  <sub>26 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 2001</sub>
+  <sub>01 · 2012</sub>
   <br><br>
   <strong>Microsoft</strong>
   <br><br>
-  Microsoft releases Windows XP, which becomes one of Microsoft's most successful operating systems.
+  Microsoft made a public release of Windows 8 and made it available on new PCs.
   <br><br>
   <a href="https://en.wikipedia.org/wiki/Microsoft"><sub>Read more ↗</sub></a>
 </p>
@@ -47,26 +47,26 @@ I mainly work around development and backend systems, while constantly picking u
 <br>
 
 <p align="center">
-  <sub>02 · 1962</sub>
+  <sub>02 · 1968</sub>
   <br><br>
-  <strong>Cuban Missile Crisis</strong>
+  <strong>Space Race</strong>
   <br><br>
-  Cuban Missile Crisis: Adlai Stevenson shows the United Nations Security Council reconnaissance photographs of Soviet ballistic missiles in Cuba.
+  Space Race: The Soyuz 3 mission achieves the first Soviet space rendezvous.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Cuban_Missile_Crisis"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Space_Race"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 1917</sub>
+  <sub>03 · 1774</sub>
   <br><br>
-  <strong>Old Style and New Style dates</strong>
+  <strong>American Revolution</strong>
   <br><br>
-  Old Style date of the October Revolution in Russia.
+  American Revolution: The First Continental Congress adjourns in Philadelphia.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Old_Style_and_New_Style_dates"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/American_Revolution"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
