@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>26 OCTOBER</sub>
+  <sub>27 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 2012</sub>
+  <sub>01 · 1961</sub>
   <br><br>
-  <strong>Microsoft</strong>
+  <strong>Saturn I SA-1</strong>
   <br><br>
-  Microsoft made a public release of Windows 8 and made it available on new PCs.
+  NASA tests the first Saturn I rocket in Mission Saturn-Apollo 1.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Microsoft"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1968</sub>
-  <br><br>
-  <strong>Space Race</strong>
-  <br><br>
-  Space Race: The Soyuz 3 mission achieves the first Soviet space rendezvous.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Space_Race"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Saturn_I_SA-1"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 1774</sub>
+  <sub>02 · 2019</sub>
   <br><br>
-  <strong>American Revolution</strong>
+  <strong>Islamic State</strong>
   <br><br>
-  American Revolution: The First Continental Congress adjourns in Philadelphia.
+  Islamic State of Iraq and the Levant founder and leader Abu Bakr al-Baghdadi kills himself and three children by detonating a suicide vest during the U.S. military Barisha raid in northwestern Syria.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/American_Revolution"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Islamic_State"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2017</sub>
+  <br><br>
+  <strong>Catalonia</strong>
+  <br><br>
+  Catalonia declares independence from Spain.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Catalonia"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
