@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>27 OCTOBER</sub>
+  <sub>28 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1961</sub>
+  <sub>01 · 1942</sub>
   <br><br>
-  <strong>Saturn I SA-1</strong>
+  <strong>Alaska Highway</strong>
   <br><br>
-  NASA tests the first Saturn I rocket in Mission Saturn-Apollo 1.
+  The Alaska Highway first connects Alaska to the North American railway network at Dawson Creek in Canada.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Saturn_I_SA-1"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 2019</sub>
-  <br><br>
-  <strong>Islamic State</strong>
-  <br><br>
-  Islamic State of Iraq and the Levant founder and leader Abu Bakr al-Baghdadi kills himself and three children by detonating a suicide vest during the U.S. military Barisha raid in northwestern Syria.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Islamic_State"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Alaska_Highway"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2017</sub>
+  <sub>02 · 2014</sub>
   <br><br>
-  <strong>Catalonia</strong>
+  <strong>Cygnus Orb-3</strong>
   <br><br>
-  Catalonia declares independence from Spain.
+  A rocket carrying NASA's Cygnus CRS Orb-3 resupply mission to the International Space Station explodes seconds after taking off from the Mid-Atlantic Regional Spaceport in Wallops Island, Virginia.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Catalonia"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Cygnus_Orb-3"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2023</sub>
+  <br><br>
+  <strong>2023 Rugby World Cup final</strong>
+  <br><br>
+  The 2023 Rugby World Cup final is held at the Stade de France in Saint-Denis, France. It saw South Africa defeat New Zealand 12 to 11, claiming their fourth Webb Ellis Cup, becoming the first nation to do so.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/2023_Rugby_World_Cup_final"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
