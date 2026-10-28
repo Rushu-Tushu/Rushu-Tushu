@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>28 OCTOBER</sub>
+  <sub>29 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1942</sub>
+  <sub>01 · 1969</sub>
   <br><br>
-  <strong>Alaska Highway</strong>
+  <strong>Computer</strong>
   <br><br>
-  The Alaska Highway first connects Alaska to the North American railway network at Dawson Creek in Canada.
+  The first-ever computer-to-computer link is established on ARPANET, the precursor to the Internet.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Alaska_Highway"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 2014</sub>
-  <br><br>
-  <strong>Cygnus Orb-3</strong>
-  <br><br>
-  A rocket carrying NASA's Cygnus CRS Orb-3 resupply mission to the International Space Station explodes seconds after taking off from the Mid-Atlantic Regional Spaceport in Wallops Island, Virginia.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Cygnus_Orb-3"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Computer"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2023</sub>
+  <sub>02 · 1998</sub>
   <br><br>
-  <strong>2023 Rugby World Cup final</strong>
+  <strong>ATSC standards</strong>
   <br><br>
-  The 2023 Rugby World Cup final is held at the Stade de France in Saint-Denis, France. It saw South Africa defeat New Zealand 12 to 11, claiming their fourth Webb Ellis Cup, becoming the first nation to do so.
+  ATSC HDTV broadcasting in the United States is inaugurated with live coverage of the launch of the STS-95 space shuttle mission.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/2023_Rugby_World_Cup_final"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/ATSC_standards"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 1998</sub>
+  <br><br>
+  <strong>Space Shuttle Discovery</strong>
+  <br><br>
+  Space Shuttle Discovery blasts off on STS-95 with 77-year-old John Glenn on board, making him the oldest person to go into space at that time.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Space_Shuttle_Discovery"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
