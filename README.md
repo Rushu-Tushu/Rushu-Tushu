@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>29 OCTOBER</sub>
+  <sub>30 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1969</sub>
+  <sub>01 · 1985</sub>
   <br><br>
-  <strong>Computer</strong>
+  <strong>Space Shuttle Challenger</strong>
   <br><br>
-  The first-ever computer-to-computer link is established on ARPANET, the precursor to the Internet.
+  Space Shuttle Challenger lifts off for mission STS-61-A, its final successful mission.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Computer"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1998</sub>
-  <br><br>
-  <strong>ATSC standards</strong>
-  <br><br>
-  ATSC HDTV broadcasting in the United States is inaugurated with live coverage of the launch of the STS-95 space shuttle mission.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/ATSC_standards"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Space_Shuttle_Challenger"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 1998</sub>
+  <sub>02 · 1953</sub>
   <br><br>
-  <strong>Space Shuttle Discovery</strong>
+  <strong>Dwight D. Eisenhower</strong>
   <br><br>
-  Space Shuttle Discovery blasts off on STS-95 with 77-year-old John Glenn on board, making him the oldest person to go into space at that time.
+  President Eisenhower approves the top-secret document NSC 162/2 concerning the maintenance of a strong nuclear deterrent force against the Soviet Union.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Space_Shuttle_Discovery"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Dwight_D._Eisenhower"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2022</sub>
+  <br><br>
+  <strong>2022 Morbi bridge collapse</strong>
+  <br><br>
+  A pedestrian suspension bridge collapses in the city of Morbi, Gujarat, leading to the deaths of at least 135 people.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/2022_Morbi_bridge_collapse"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
