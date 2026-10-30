@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>30 OCTOBER</sub>
+  <sub>31 OCTOBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1985</sub>
+  <sub>01 · 2000</sub>
   <br><br>
-  <strong>Space Shuttle Challenger</strong>
+  <strong>Soyuz TM-31</strong>
   <br><br>
-  Space Shuttle Challenger lifts off for mission STS-61-A, its final successful mission.
+  Soyuz TM-31 launches, carrying the first resident crew to the International Space Station. The ISS has been crewed continuously since then.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Space_Shuttle_Challenger"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1953</sub>
-  <br><br>
-  <strong>Dwight D. Eisenhower</strong>
-  <br><br>
-  President Eisenhower approves the top-secret document NSC 162/2 concerning the maintenance of a strong nuclear deterrent force against the Soviet Union.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Dwight_D._Eisenhower"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Soyuz_TM-31"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2022</sub>
+  <sub>02 · 1956</sub>
   <br><br>
-  <strong>2022 Morbi bridge collapse</strong>
+  <strong>Hungarian Revolution of 1956</strong>
   <br><br>
-  A pedestrian suspension bridge collapses in the city of Morbi, Gujarat, leading to the deaths of at least 135 people.
+  Hungarian Revolution of 1956: A Revolutionary Headquarters is established in Hungary. Following Imre Nagy's announcement of October 30, banned non-Communist political parties are reformed, and the MDP is replaced by the MSZMP. József Mindszenty is released from prison. The Soviet Politburo makes the decision to crush the Revolution.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/2022_Morbi_bridge_collapse"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2020</sub>
+  <br><br>
+  <strong>Berlin Brandenburg Airport</strong>
+  <br><br>
+  Berlin Brandenburg Airport opens its doors after nearly 10 years of delays due to construction issues and project corruption.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Berlin_Brandenburg_Airport"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
