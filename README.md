@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>31 OCTOBER</sub>
+  <sub>01 NOVEMBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 2000</sub>
+  <sub>01 · 1963</sub>
   <br><br>
-  <strong>Soyuz TM-31</strong>
+  <strong>Arecibo Observatory</strong>
   <br><br>
-  Soyuz TM-31 launches, carrying the first resident crew to the International Space Station. The ISS has been crewed continuously since then.
+  The Arecibo Observatory in Arecibo, Puerto Rico, with the largest radio telescope ever constructed, officially opens.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Soyuz_TM-31"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1956</sub>
-  <br><br>
-  <strong>Hungarian Revolution of 1956</strong>
-  <br><br>
-  Hungarian Revolution of 1956: A Revolutionary Headquarters is established in Hungary. Following Imre Nagy's announcement of October 30, banned non-Communist political parties are reformed, and the MDP is replaced by the MSZMP. József Mindszenty is released from prison. The Soviet Politburo makes the decision to crush the Revolution.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Arecibo_Observatory"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2020</sub>
+  <sub>02 · 1987</sub>
   <br><br>
-  <strong>Berlin Brandenburg Airport</strong>
+  <strong>British Rail Class 43 (HST)</strong>
   <br><br>
-  Berlin Brandenburg Airport opens its doors after nearly 10 years of delays due to construction issues and project corruption.
+  British Rail Class 43 (HST) hits the record speed of 238 km/h for rail vehicles with on-board fuel to generate electricity for traction motors.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Berlin_Brandenburg_Airport"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/British_Rail_Class_43_(HST)"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2011</sub>
+  <br><br>
+  <strong>Mario Draghi</strong>
+  <br><br>
+  Mario Draghi succeeds Jean-Claude Trichet and becomes the third president of the European Central Bank.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Mario_Draghi"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
