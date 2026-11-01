@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>01 NOVEMBER</sub>
+  <sub>02 NOVEMBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1963</sub>
+  <sub>01 · 1988</sub>
   <br><br>
-  <strong>Arecibo Observatory</strong>
+  <strong>Morris worm</strong>
   <br><br>
-  The Arecibo Observatory in Arecibo, Puerto Rico, with the largest radio telescope ever constructed, officially opens.
+  The Morris worm, the first Internet-distributed computer worm to gain significant mainstream media attention, is launched from MIT.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Arecibo_Observatory"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1987</sub>
-  <br><br>
-  <strong>British Rail Class 43 (HST)</strong>
-  <br><br>
-  British Rail Class 43 (HST) hits the record speed of 238 km/h for rail vehicles with on-board fuel to generate electricity for traction motors.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/British_Rail_Class_43_(HST)"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Morris_worm"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2011</sub>
+  <sub>02 · 2000</sub>
   <br><br>
-  <strong>Mario Draghi</strong>
+  <strong>Expedition 1</strong>
   <br><br>
-  Mario Draghi succeeds Jean-Claude Trichet and becomes the third president of the European Central Bank.
+  Expedition 1 arrived at the International Space Station for the first long-duration stay onboard. From this day to present, a continuous human presence in space on the station remains uninterrupted.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Mario_Draghi"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Expedition_1"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 1956</sub>
+  <br><br>
+  <strong>Hungarian Revolution of 1956</strong>
+  <br><br>
+  Hungarian Revolution: Nikita Khrushchev meets with leaders of other Communist countries to seek their advice on the situation in Hungary, selecting János Kádár as the country's next leader on the advice of Josip Broz Tito.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
