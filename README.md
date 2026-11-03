@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>03 NOVEMBER</sub>
+  <sub>04 NOVEMBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1957</sub>
+  <sub>01 · 2002</sub>
   <br><br>
-  <strong>List of spacecraft called Sputnik</strong>
+  <strong>He Depu</strong>
   <br><br>
-  Sputnik program: The Soviet Union launches Sputnik 2. On board is the first animal to enter orbit, a dog named Laika.
+  Chinese authorities arrest cyber-dissident He Depu for signing a pro-democracy letter to the 16th Communist Party Congress.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/List_of_spacecraft_called_Sputnik"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1956</sub>
-  <br><br>
-  <strong>Hungarian Revolution of 1956</strong>
-  <br><br>
-  Hungarian Revolution: A new Hungarian government is formed, in which many members of banned non-Communist parties participate. János Kádár and Ferenc Münnich form a counter-government in Moscow as Soviet troops prepare for the final assault.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/He_Depu"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2020</sub>
+  <sub>02 · 1962</sub>
   <br><br>
-  <strong>2020 United States presidential election</strong>
+  <strong>Operation Fishbowl</strong>
   <br><br>
-  The 2020 United States presidential election takes place between Democratic Joe Biden and Republican incumbent President Donald Trump. On November 7, Biden was declared the winner.
+  The United States concludes Operation Fishbowl, its final above-ground nuclear weapons testing series, in anticipation of the 1963 Partial Nuclear Test Ban Treaty.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/2020_United_States_presidential_election"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Operation_Fishbowl"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2010</sub>
+  <br><br>
+  <strong>Qantas Flight 32</strong>
+  <br><br>
+  Qantas Flight 32, an Airbus A380, suffers an uncontained engine failure over Indonesia shortly after taking off from Singapore, crippling the jet. The crew manage to safely return to Singapore, saving all 469 passengers and crew.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Qantas_Flight_32"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
