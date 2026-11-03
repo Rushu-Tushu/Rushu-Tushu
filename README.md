@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>02 NOVEMBER</sub>
+  <sub>03 NOVEMBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1988</sub>
+  <sub>01 · 1957</sub>
   <br><br>
-  <strong>Morris worm</strong>
+  <strong>List of spacecraft called Sputnik</strong>
   <br><br>
-  The Morris worm, the first Internet-distributed computer worm to gain significant mainstream media attention, is launched from MIT.
+  Sputnik program: The Soviet Union launches Sputnik 2. On board is the first animal to enter orbit, a dog named Laika.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Morris_worm"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 2000</sub>
-  <br><br>
-  <strong>Expedition 1</strong>
-  <br><br>
-  Expedition 1 arrived at the International Space Station for the first long-duration stay onboard. From this day to present, a continuous human presence in space on the station remains uninterrupted.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Expedition_1"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/List_of_spacecraft_called_Sputnik"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 1956</sub>
+  <sub>02 · 1956</sub>
   <br><br>
   <strong>Hungarian Revolution of 1956</strong>
   <br><br>
-  Hungarian Revolution: Nikita Khrushchev meets with leaders of other Communist countries to seek their advice on the situation in Hungary, selecting János Kádár as the country's next leader on the advice of Josip Broz Tito.
+  Hungarian Revolution: A new Hungarian government is formed, in which many members of banned non-Communist parties participate. János Kádár and Ferenc Münnich form a counter-government in Moscow as Soviet troops prepare for the final assault.
   <br><br>
   <a href="https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2020</sub>
+  <br><br>
+  <strong>2020 United States presidential election</strong>
+  <br><br>
+  The 2020 United States presidential election takes place between Democratic Joe Biden and Republican incumbent President Donald Trump. On November 7, Biden was declared the winner.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/2020_United_States_presidential_election"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
