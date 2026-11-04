@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>04 NOVEMBER</sub>
+  <sub>05 NOVEMBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 2002</sub>
+  <sub>01 · 2007</sub>
   <br><br>
-  <strong>He Depu</strong>
+  <strong>Android (operating system)</strong>
   <br><br>
-  Chinese authorities arrest cyber-dissident He Depu for signing a pro-democracy letter to the 16th Communist Party Congress.
+  The Android mobile operating system is unveiled by Google.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/He_Depu"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1962</sub>
-  <br><br>
-  <strong>Operation Fishbowl</strong>
-  <br><br>
-  The United States concludes Operation Fishbowl, its final above-ground nuclear weapons testing series, in anticipation of the 1963 Partial Nuclear Test Ban Treaty.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Operation_Fishbowl"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Android_(operating_system)"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2010</sub>
+  <sub>02 · 2007</sub>
   <br><br>
-  <strong>Qantas Flight 32</strong>
+  <strong>Chang'e 1</strong>
   <br><br>
-  Qantas Flight 32, an Airbus A380, suffers an uncontained engine failure over Indonesia shortly after taking off from Singapore, crippling the jet. The crew manage to safely return to Singapore, saving all 469 passengers and crew.
+  China's first lunar satellite, Chang'e 1, goes into orbit around the Moon.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Qantas_Flight_32"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Chang'e_1"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2024</sub>
+  <br><br>
+  <strong>Donald Trump</strong>
+  <br><br>
+  Donald Trump becomes the first president of the United States to be elected to a non-consecutive second term in 132 years, since Grover Cleveland won the 1892 election.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Donald_Trump"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
