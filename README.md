@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>05 NOVEMBER</sub>
+  <sub>06 NOVEMBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 2007</sub>
+  <sub>01 · 1971</sub>
   <br><br>
-  <strong>Android (operating system)</strong>
+  <strong>United States Atomic Energy Commission</strong>
   <br><br>
-  The Android mobile operating system is unveiled by Google.
+  The United States Atomic Energy Commission tests the largest U.S. underground hydrogen bomb, code-named Cannikin, on Amchitka Island in the Aleutians.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Android_(operating_system)"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 2007</sub>
-  <br><br>
-  <strong>Chang'e 1</strong>
-  <br><br>
-  China's first lunar satellite, Chang'e 1, goes into orbit around the Moon.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Chang'e_1"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/United_States_Atomic_Energy_Commission"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2024</sub>
+  <sub>02 · 2025</sub>
   <br><br>
-  <strong>Donald Trump</strong>
+  <strong>2025 Canadian ostrich culling controversy</strong>
   <br><br>
-  Donald Trump becomes the first president of the United States to be elected to a non-consecutive second term in 132 years, since Grover Cleveland won the 1892 election.
+  Canadian ostrich cull: The Government of Canada kills 314 ostriches after H5N8 is detected in an ostrich farm in Edgewood, BC.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Donald_Trump"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/2025_Canadian_ostrich_culling_controversy"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2012</sub>
+  <br><br>
+  <strong>Tammy Baldwin</strong>
+  <br><br>
+  Tammy Baldwin becomes the first openly gay politician to be elected to the United States Senate.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Tammy_Baldwin"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
