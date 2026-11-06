@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>06 NOVEMBER</sub>
+  <sub>07 NOVEMBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1971</sub>
+  <sub>01 · 1994</sub>
   <br><br>
-  <strong>United States Atomic Energy Commission</strong>
+  <strong>WXYC</strong>
   <br><br>
-  The United States Atomic Energy Commission tests the largest U.S. underground hydrogen bomb, code-named Cannikin, on Amchitka Island in the Aleutians.
+  WXYC, the student radio station of the University of North Carolina at Chapel Hill, launches the world's first internet radio broadcast.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/United_States_Atomic_Energy_Commission"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 2025</sub>
-  <br><br>
-  <strong>2025 Canadian ostrich culling controversy</strong>
-  <br><br>
-  Canadian ostrich cull: The Government of Canada kills 314 ostriches after H5N8 is detected in an ostrich farm in Edgewood, BC.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/2025_Canadian_ostrich_culling_controversy"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/WXYC"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2012</sub>
+  <sub>02 · 1996</sub>
   <br><br>
-  <strong>Tammy Baldwin</strong>
+  <strong>NASA</strong>
   <br><br>
-  Tammy Baldwin becomes the first openly gay politician to be elected to the United States Senate.
+  NASA launches the Mars Global Surveyor.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Tammy_Baldwin"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/NASA"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 1956</sub>
+  <br><br>
+  <strong>Hungarian Revolution of 1956</strong>
+  <br><br>
+  Hungarian Revolution: János Kádár returns to Budapest in a Soviet armored convoy, officially taking office as the next Hungarian leader. By this point, most armed resistance has been defeated.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
