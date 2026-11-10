@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>09 NOVEMBER</sub>
+  <sub>10 NOVEMBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1967</sub>
+  <sub>01 · 2008</sub>
   <br><br>
-  <strong>Apollo program</strong>
+  <strong>Mars</strong>
   <br><br>
-  Apollo program: NASA launches the unmanned Apollo 4 test spacecraft, atop the first Saturn V rocket, from Florida's Cape Kennedy.
+  Over five months after landing on Mars, NASA declares the Phoenix mission concluded after communications with the lander were lost.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Apollo_program"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 2023</sub>
-  <br><br>
-  <strong>NYU Langone Health</strong>
-  <br><br>
-  U.S. surgeons at NYU Langone Health announce the world's first whole eye transplant.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/NYU_Langone_Health"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Mars"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2014</sub>
+  <sub>02 · 2019</sub>
   <br><br>
-  <strong>2014 Catalan self-determination referendum</strong>
+  <strong>Evo Morales</strong>
   <br><br>
-  A non-binding self-determination consultation is held in Catalonia, asking Catalan citizens their opinion on whether Catalonia should become a state and, if so, whether it should be an independent state.
+  President of Bolivia Evo Morales and several of his government resign after 19 days of civil protests and a recommendation from the military.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/2014_Catalan_self-determination_referendum"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Evo_Morales"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2009</sub>
+  <br><br>
+  <strong>Daecheong incident</strong>
+  <br><br>
+  Ships of the South and North Korean navies skirmish off Daecheong Island in the Yellow Sea.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Daecheong_incident"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
