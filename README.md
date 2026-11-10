@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>10 NOVEMBER</sub>
+  <sub>11 NOVEMBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 2008</sub>
+  <sub>01 · 1982</sub>
   <br><br>
-  <strong>Mars</strong>
+  <strong>Space Shuttle Columbia</strong>
   <br><br>
-  Over five months after landing on Mars, NASA declares the Phoenix mission concluded after communications with the lander were lost.
+  Space Shuttle Columbia launches from the Kennedy Space Center on STS-5, the first operational mission of the Space Shuttle program.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Mars"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 2019</sub>
-  <br><br>
-  <strong>Evo Morales</strong>
-  <br><br>
-  President of Bolivia Evo Morales and several of his government resign after 19 days of civil protests and a recommendation from the military.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Evo_Morales"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Space_Shuttle_Columbia"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2009</sub>
+  <sub>02 · 2004</sub>
   <br><br>
-  <strong>Daecheong incident</strong>
+  <strong>Palestine Liberation Organization</strong>
   <br><br>
-  Ships of the South and North Korean navies skirmish off Daecheong Island in the Yellow Sea.
+  The Palestine Liberation Organization confirms the death of Yasser Arafat from unidentified causes. Mahmoud Abbas is elected chairman of the PLO minutes later.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Daecheong_incident"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Palestine_Liberation_Organization"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2002</sub>
+  <br><br>
+  <strong>Grigori Perelman</strong>
+  <br><br>
+  Russian mathematician Grigori Perelman posts the first of three preprint texts with his proof of the Poincaré conjecture. It remains the only of the Millennium Prize Problems in mathematics to be solved. He later refused both the prize money from Clay Mathematics Institute as well as the Fields Medal for his work.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Grigori_Perelman"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
