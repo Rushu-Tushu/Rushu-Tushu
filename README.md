@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>11 NOVEMBER</sub>
+  <sub>12 NOVEMBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1982</sub>
+  <sub>01 · 1981</sub>
   <br><br>
-  <strong>Space Shuttle Columbia</strong>
+  <strong>Space Shuttle program</strong>
   <br><br>
-  Space Shuttle Columbia launches from the Kennedy Space Center on STS-5, the first operational mission of the Space Shuttle program.
+  Space Shuttle program: Mission STS-2, utilizing the Space Shuttle Columbia, marks the first time a crewed spacecraft is launched into space twice.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Space_Shuttle_Columbia"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 2004</sub>
-  <br><br>
-  <strong>Palestine Liberation Organization</strong>
-  <br><br>
-  The Palestine Liberation Organization confirms the death of Yasser Arafat from unidentified causes. Mahmoud Abbas is elected chairman of the PLO minutes later.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Palestine_Liberation_Organization"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Space_Shuttle_program"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2002</sub>
+  <sub>02 · 1977</sub>
   <br><br>
-  <strong>Grigori Perelman</strong>
+  <strong>France</strong>
   <br><br>
-  Russian mathematician Grigori Perelman posts the first of three preprint texts with his proof of the Poincaré conjecture. It remains the only of the Millennium Prize Problems in mathematics to be solved. He later refused both the prize money from Clay Mathematics Institute as well as the Fields Medal for his work.
+  France conducts the Oreste nuclear test as 14th in the group of 29, 1975–78 French nuclear tests series.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Grigori_Perelman"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/France"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2021</sub>
+  <br><br>
+  <strong>Los Angeles County Superior Court</strong>
+  <br><br>
+  The Los Angeles Superior Court formally ends the 14-year conservatorship to pop singer Britney Spears.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Los_Angeles_County_Superior_Court"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
