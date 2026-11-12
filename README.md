@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>12 NOVEMBER</sub>
+  <sub>13 NOVEMBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1981</sub>
+  <sub>01 · 1996</sub>
   <br><br>
-  <strong>Space Shuttle program</strong>
+  <strong>Great Internet Mersenne Prime Search</strong>
   <br><br>
-  Space Shuttle program: Mission STS-2, utilizing the Space Shuttle Columbia, marks the first time a crewed spacecraft is launched into space twice.
+  As part of the Great Internet Mersenne Prime Search (GIMPS) project, Joel Armengaud discovers the project's first Mersenne prime number, 21398269−1, a number with 420,921 digits.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Space_Shuttle_program"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1977</sub>
-  <br><br>
-  <strong>France</strong>
-  <br><br>
-  France conducts the Oreste nuclear test as 14th in the group of 29, 1975–78 French nuclear tests series.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/France"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Great_Internet_Mersenne_Prime_Search"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2021</sub>
+  <sub>02 · 2012</sub>
   <br><br>
-  <strong>Los Angeles County Superior Court</strong>
+  <strong>Solar eclipse</strong>
   <br><br>
-  The Los Angeles Superior Court formally ends the 14-year conservatorship to pop singer Britney Spears.
+  A total solar eclipse occurs in parts of Australia and the South Pacific.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Los_Angeles_County_Superior_Court"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Solar_eclipse"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2002</sub>
+  <br><br>
+  <strong>Iraq disarmament crisis</strong>
+  <br><br>
+  Iraq disarmament crisis: Iraq agrees to the terms of the UN Security Council Resolution 1441.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Iraq_disarmament_crisis"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
