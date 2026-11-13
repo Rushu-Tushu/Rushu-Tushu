@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>13 NOVEMBER</sub>
+  <sub>14 NOVEMBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1996</sub>
+  <sub>01 · 1991</sub>
   <br><br>
-  <strong>Great Internet Mersenne Prime Search</strong>
+  <strong>Intelligence assessment</strong>
   <br><br>
-  As part of the Great Internet Mersenne Prime Search (GIMPS) project, Joel Armengaud discovers the project's first Mersenne prime number, 21398269−1, a number with 420,921 digits.
+  American and British authorities announce indictments against two Libyan intelligence officials in connection with the downing of the Pan Am Flight 103.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Great_Internet_Mersenne_Prime_Search"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 2012</sub>
-  <br><br>
-  <strong>Solar eclipse</strong>
-  <br><br>
-  A total solar eclipse occurs in parts of Australia and the South Pacific.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Solar_eclipse"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Intelligence_assessment"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2002</sub>
+  <sub>02 · 1969</sub>
   <br><br>
-  <strong>Iraq disarmament crisis</strong>
+  <strong>Apollo program</strong>
   <br><br>
-  Iraq disarmament crisis: Iraq agrees to the terms of the UN Security Council Resolution 1441.
+  Apollo program: NASA launches Apollo 12, the second crewed mission to the surface of the Moon.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Iraq_disarmament_crisis"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Apollo_program"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 1978</sub>
+  <br><br>
+  <strong>France</strong>
+  <br><br>
+  France conducts the Aphrodite nuclear test as 25th in the group of 29 1975–78 French nuclear tests.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/France"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
