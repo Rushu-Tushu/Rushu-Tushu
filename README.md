@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>14 NOVEMBER</sub>
+  <sub>15 NOVEMBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1991</sub>
+  <sub>01 · 1971</sub>
   <br><br>
-  <strong>Intelligence assessment</strong>
+  <strong>Intel</strong>
   <br><br>
-  American and British authorities announce indictments against two Libyan intelligence officials in connection with the downing of the Pan Am Flight 103.
+  Intel releases the world's first commercial single-chip microprocessor, the 4004.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Intelligence_assessment"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1969</sub>
-  <br><br>
-  <strong>Apollo program</strong>
-  <br><br>
-  Apollo program: NASA launches Apollo 12, the second crewed mission to the surface of the Moon.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Apollo_program"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Intel"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 1978</sub>
+  <sub>02 · 1990</sub>
   <br><br>
-  <strong>France</strong>
+  <strong>Space Shuttle Atlantis</strong>
   <br><br>
-  France conducts the Aphrodite nuclear test as 25th in the group of 29 1975–78 French nuclear tests.
+  Space Shuttle Atlantis is launched on STS-38, a classified mission for the Department of Defense.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/France"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2022</sub>
+  <br><br>
+  <strong>World population</strong>
+  <br><br>
+  The world population reached eight billion.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/World_population"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
