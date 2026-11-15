@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>15 NOVEMBER</sub>
+  <sub>16 NOVEMBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1971</sub>
+  <sub>01 · 1849</sub>
   <br><br>
-  <strong>Intel</strong>
+  <strong>Fyodor Dostoevsky</strong>
   <br><br>
-  Intel releases the world's first commercial single-chip microprocessor, the 4004.
+  A Russian court sentences writer Fyodor Dostoyevsky to death for anti-government activities linked to a radical intellectual group; his sentence is later commuted to hard labor.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Intel"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1990</sub>
-  <br><br>
-  <strong>Space Shuttle Atlantis</strong>
-  <br><br>
-  Space Shuttle Atlantis is launched on STS-38, a classified mission for the Department of Defense.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Fyodor_Dostoevsky"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2022</sub>
+  <sub>02 · 2022</sub>
   <br><br>
-  <strong>World population</strong>
+  <strong>Artemis program</strong>
   <br><br>
-  The world population reached eight billion.
+  Artemis Program: NASA launches Artemis 1 on the first flight of the Space Launch System, the start of the program's future missions to the moon.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/World_population"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Artemis_program"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 1992</sub>
+  <br><br>
+  <strong>Hoxne Hoard</strong>
+  <br><br>
+  The Hoxne Hoard is discovered by metal detectorist Eric Lawes in Hoxne, Suffolk.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Hoxne_Hoard"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
