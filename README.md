@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>16 NOVEMBER</sub>
+  <sub>17 NOVEMBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1849</sub>
+  <sub>01 · 1970</sub>
   <br><br>
-  <strong>Fyodor Dostoevsky</strong>
+  <strong>Luna programme</strong>
   <br><br>
-  A Russian court sentences writer Fyodor Dostoyevsky to death for anti-government activities linked to a radical intellectual group; his sentence is later commuted to hard labor.
+  Luna programme: The Soviet Union lands Lunokhod 1 on Mare Imbrium (Sea of Rains) on the Moon. This is the first roving remote-controlled robot to land on another world and is released by the orbiting Luna 17 spacecraft.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Fyodor_Dostoevsky"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 2022</sub>
-  <br><br>
-  <strong>Artemis program</strong>
-  <br><br>
-  Artemis Program: NASA launches Artemis 1 on the first flight of the Space Launch System, the start of the program's future missions to the moon.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Artemis_program"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Luna_programme"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 1992</sub>
+  <sub>02 · 2020</sub>
   <br><br>
-  <strong>Hoxne Hoard</strong>
+  <strong>Vega (rocket)</strong>
   <br><br>
-  The Hoxne Hoard is discovered by metal detectorist Eric Lawes in Hoxne, Suffolk.
+  A Vega rocket carrying SEOSat-Ingenio and TARANIS fails after liftoff.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Hoxne_Hoard"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Vega_(rocket)"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 1947</sub>
+  <br><br>
+  <strong>John Bardeen</strong>
+  <br><br>
+  American scientists John Bardeen and Walter Houser Brattain observe the basic principles of the transistor, a key element for the electronics revolution of the 20th century.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/John_Bardeen"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
