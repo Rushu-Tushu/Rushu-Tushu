@@ -27,20 +27,20 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>17 NOVEMBER</sub>
+  <sub>18 NOVEMBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1970</sub>
+  <sub>01 · 2013</sub>
   <br><br>
-  <strong>Luna programme</strong>
+  <strong>NASA</strong>
   <br><br>
-  Luna programme: The Soviet Union lands Lunokhod 1 on Mare Imbrium (Sea of Rains) on the Moon. This is the first roving remote-controlled robot to land on another world and is released by the orbiting Luna 17 spacecraft.
+  NASA launches the MAVEN probe to Mars.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Luna_programme"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/NASA"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
@@ -49,24 +49,24 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <sub>02 · 2020</sub>
   <br><br>
-  <strong>Vega (rocket)</strong>
+  <strong>Utah monolith</strong>
   <br><br>
-  A Vega rocket carrying SEOSat-Ingenio and TARANIS fails after liftoff.
+  The Utah monolith, built sometime in 2016 is discovered by state biologists of the Utah Division of Wildlife Resources.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Vega_(rocket)"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Utah_monolith"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 1947</sub>
+  <sub>03 · 2012</sub>
   <br><br>
-  <strong>John Bardeen</strong>
+  <strong>Pope Tawadros II of Alexandria</strong>
   <br><br>
-  American scientists John Bardeen and Walter Houser Brattain observe the basic principles of the transistor, a key element for the electronics revolution of the 20th century.
+  Pope Tawadros II of Alexandria becomes the 118th Pope of the Coptic Orthodox Church of Alexandria.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/John_Bardeen"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Pope_Tawadros_II_of_Alexandria"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
