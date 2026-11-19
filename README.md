@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>18 NOVEMBER</sub>
+  <sub>19 NOVEMBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 2013</sub>
+  <sub>01 · 1996</sub>
   <br><br>
-  <strong>NASA</strong>
+  <strong>Space Shuttle program</strong>
   <br><br>
-  NASA launches the MAVEN probe to Mars.
+  Space Shuttle program: Columbia is launched on STS-80, which would become the longest mission in the program at 17 days. On this mission, astronaut Story Musgrave becomes the only astronaut to fly on all five space shuttles.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/NASA"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 2020</sub>
-  <br><br>
-  <strong>Utah monolith</strong>
-  <br><br>
-  The Utah monolith, built sometime in 2016 is discovered by state biologists of the Utah Division of Wildlife Resources.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Utah_monolith"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Space_Shuttle_program"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2012</sub>
+  <sub>02 · 2023</sub>
   <br><br>
-  <strong>Pope Tawadros II of Alexandria</strong>
+  <strong>2023 Cricket World Cup final</strong>
   <br><br>
-  Pope Tawadros II of Alexandria becomes the 118th Pope of the Coptic Orthodox Church of Alexandria.
+  The 2023 Cricket World Cup final takes place at the Narendra Modi Stadium in Ahmedabad, India, played between host nation India and Australia.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Pope_Tawadros_II_of_Alexandria"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/2023_Cricket_World_Cup_final"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2004</sub>
+  <br><br>
+  <strong>Malice at the Palace</strong>
+  <br><br>
+  The worst brawl in NBA history results in several players being suspended. Several players and fans are charged with assault and battery.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Malice_at_the_Palace"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
