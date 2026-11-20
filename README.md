@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>19 NOVEMBER</sub>
+  <sub>20 NOVEMBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1996</sub>
+  <sub>01 · 1985</sub>
   <br><br>
-  <strong>Space Shuttle program</strong>
+  <strong>Microsoft</strong>
   <br><br>
-  Space Shuttle program: Columbia is launched on STS-80, which would become the longest mission in the program at 17 days. On this mission, astronaut Story Musgrave becomes the only astronaut to fly on all five space shuttles.
+  Microsoft Windows 1.0, the first graphical personal computer operating environment developed by Microsoft, is released.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Space_Shuttle_program"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 2023</sub>
-  <br><br>
-  <strong>2023 Cricket World Cup final</strong>
-  <br><br>
-  The 2023 Cricket World Cup final takes place at the Narendra Modi Stadium in Ahmedabad, India, played between host nation India and Australia.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/2023_Cricket_World_Cup_final"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Microsoft"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2004</sub>
+  <sub>02 · 1998</sub>
   <br><br>
-  <strong>Malice at the Palace</strong>
+  <strong>Zarya (ISS module)</strong>
   <br><br>
-  The worst brawl in NBA history results in several players being suspended. Several players and fans are charged with assault and battery.
+  The first space station module component, Zarya, for the International Space Station is launched from the Baikonur Cosmodrome in Kazakhstan.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Malice_at_the_Palace"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Zarya_(ISS_module)"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 1989</sub>
+  <br><br>
+  <strong>Velvet Revolution</strong>
+  <br><br>
+  Velvet Revolution: The number of protesters assembled in Prague, Czechoslovakia, swells from 200,000 the day before to an estimated half-million.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Velvet_Revolution"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
