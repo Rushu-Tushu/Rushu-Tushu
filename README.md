@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>21 NOVEMBER</sub>
+  <sub>22 NOVEMBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1985</sub>
+  <sub>01 · 1989</sub>
   <br><br>
-  <strong>Jonathan Pollard</strong>
+  <strong>NASA</strong>
   <br><br>
-  United States Navy intelligence analyst Jonathan Pollard is arrested for spying after being caught giving Israel classified information on Arab nations. He is subsequently sentenced to life in prison.
+  NASA launches Space Shuttle Discovery on STS-33, a classified mission for the United States Department of Defense.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Jonathan_Pollard"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1969</sub>
-  <br><br>
-  <strong>Richard Nixon</strong>
-  <br><br>
-  U.S. President Richard Nixon and Japanese Premier Eisaku Satō agree on the return of Okinawa to Japanese control in 1972. The U.S. retains rights to bases on the island, but these are to be nuclear-free.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Richard_Nixon"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/NASA"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2019</sub>
+  <sub>02 · 2004</sub>
   <br><br>
-  <strong>Benjamin Netanyahu</strong>
+  <strong>Orange Revolution</strong>
   <br><br>
-  Israeli Prime Minister Benjamin Netanyahu is indicted on charges of bribery, fraud, and breach of trust.
+  The Orange Revolution begins in Ukraine, resulting from the presidential elections.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Benjamin_Netanyahu"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Orange_Revolution"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2010</sub>
+  <br><br>
+  <strong>Bon Om Touk</strong>
+  <br><br>
+  During the Cambodian water festival, a stampede in Koh Pich, Phnom Penh, kills 347 people.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Bon_Om_Touk"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
