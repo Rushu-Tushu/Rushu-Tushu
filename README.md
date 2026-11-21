@@ -27,7 +27,7 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>20 NOVEMBER</sub>
+  <sub>21 NOVEMBER</sub>
 </p>
 
 <br>
@@ -36,37 +36,37 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <sub>01 · 1985</sub>
   <br><br>
-  <strong>Microsoft</strong>
+  <strong>Jonathan Pollard</strong>
   <br><br>
-  Microsoft Windows 1.0, the first graphical personal computer operating environment developed by Microsoft, is released.
+  United States Navy intelligence analyst Jonathan Pollard is arrested for spying after being caught giving Israel classified information on Arab nations. He is subsequently sentenced to life in prison.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Microsoft"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Jonathan_Pollard"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>02 · 1998</sub>
+  <sub>02 · 1969</sub>
   <br><br>
-  <strong>Zarya (ISS module)</strong>
+  <strong>Richard Nixon</strong>
   <br><br>
-  The first space station module component, Zarya, for the International Space Station is launched from the Baikonur Cosmodrome in Kazakhstan.
+  U.S. President Richard Nixon and Japanese Premier Eisaku Satō agree on the return of Okinawa to Japanese control in 1972. The U.S. retains rights to bases on the island, but these are to be nuclear-free.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Zarya_(ISS_module)"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Richard_Nixon"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 1989</sub>
+  <sub>03 · 2019</sub>
   <br><br>
-  <strong>Velvet Revolution</strong>
+  <strong>Benjamin Netanyahu</strong>
   <br><br>
-  Velvet Revolution: The number of protesters assembled in Prague, Czechoslovakia, swells from 200,000 the day before to an estimated half-million.
+  Israeli Prime Minister Benjamin Netanyahu is indicted on charges of bribery, fraud, and breach of trust.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Velvet_Revolution"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Benjamin_Netanyahu"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
