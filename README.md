@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>22 NOVEMBER</sub>
+  <sub>23 NOVEMBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1989</sub>
+  <sub>01 · 1992</sub>
   <br><br>
-  <strong>NASA</strong>
+  <strong>IBM Simon</strong>
   <br><br>
-  NASA launches Space Shuttle Discovery on STS-33, a classified mission for the United States Department of Defense.
+  The first smartphone, the IBM Simon, is introduced at COMDEX in Las Vegas, Nevada.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/NASA"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 2004</sub>
-  <br><br>
-  <strong>Orange Revolution</strong>
-  <br><br>
-  The Orange Revolution begins in Ukraine, resulting from the presidential elections.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Orange_Revolution"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/IBM_Simon"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2010</sub>
+  <sub>02 · 2002</sub>
   <br><br>
-  <strong>Bon Om Touk</strong>
+  <strong>Space Shuttle Endeavour</strong>
   <br><br>
-  During the Cambodian water festival, a stampede in Koh Pich, Phnom Penh, kills 347 people.
+  Space Shuttle Endeavour launches on STS-113 to the International Space Station carrying the Expedition 6 crew and the P1 truss.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Bon_Om_Touk"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2003</sub>
+  <br><br>
+  <strong>Rose Revolution</strong>
+  <br><br>
+  Rose Revolution: Georgian president Eduard Shevardnadze resigns following weeks of mass protests over flawed elections.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Rose_Revolution"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
