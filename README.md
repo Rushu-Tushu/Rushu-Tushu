@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>23 NOVEMBER</sub>
+  <sub>24 NOVEMBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1992</sub>
+  <sub>01 · 1969</sub>
   <br><br>
-  <strong>IBM Simon</strong>
+  <strong>Apollo program</strong>
   <br><br>
-  The first smartphone, the IBM Simon, is introduced at COMDEX in Las Vegas, Nevada.
+  Apollo program: The Apollo 12 command module splashes down safely in the Pacific Ocean, ending the second crewed mission to land on the Moon.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/IBM_Simon"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 2002</sub>
-  <br><br>
-  <strong>Space Shuttle Endeavour</strong>
-  <br><br>
-  Space Shuttle Endeavour launches on STS-113 to the International Space Station carrying the Expedition 6 crew and the P1 truss.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Apollo_program"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2003</sub>
+  <sub>02 · 2013</sub>
   <br><br>
-  <strong>Rose Revolution</strong>
+  <strong>Iran</strong>
   <br><br>
-  Rose Revolution: Georgian president Eduard Shevardnadze resigns following weeks of mass protests over flawed elections.
+  Iran signs an interim agreement with the P5+1 countries, limiting its nuclear program in exchange for reduced sanctions.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Rose_Revolution"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Iran"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2023</sub>
+  <br><br>
+  <strong>Hibiscus Rising</strong>
+  <br><br>
+  Hibiscus Rising, commemorating David Oluwale, is unveiled in Leeds.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Hibiscus_Rising"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
