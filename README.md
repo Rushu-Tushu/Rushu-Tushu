@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>24 NOVEMBER</sub>
+  <sub>25 NOVEMBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1969</sub>
+  <sub>01 · 1915</sub>
   <br><br>
-  <strong>Apollo program</strong>
+  <strong>Albert Einstein</strong>
   <br><br>
-  Apollo program: The Apollo 12 command module splashes down safely in the Pacific Ocean, ending the second crewed mission to land on the Moon.
+  Albert Einstein presents the field equations of general relativity to the Prussian Academy of Sciences.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Apollo_program"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 2013</sub>
-  <br><br>
-  <strong>Iran</strong>
-  <br><br>
-  Iran signs an interim agreement with the P5+1 countries, limiting its nuclear program in exchange for reduced sanctions.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Iran"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Albert_Einstein"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2023</sub>
+  <sub>02 · 1999</sub>
   <br><br>
-  <strong>Hibiscus Rising</strong>
+  <strong>Elián González</strong>
   <br><br>
-  Hibiscus Rising, commemorating David Oluwale, is unveiled in Leeds.
+  A five-year-old Cuban boy, Elián González, is rescued by fishermen while floating in an inner tube off the Florida coast.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Hibiscus_Rising"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Eli%C3%A1n_Gonz%C3%A1lez"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 1992</sub>
+  <br><br>
+  <strong>Federal Assembly (Czechoslovakia)</strong>
+  <br><br>
+  The Federal Assembly of Czechoslovakia votes to split the country into the Czech Republic and Slovakia, with effect from January 1, 1993.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Federal_Assembly_(Czechoslovakia)"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
