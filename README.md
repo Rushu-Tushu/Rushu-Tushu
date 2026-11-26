@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>25 NOVEMBER</sub>
+  <sub>26 NOVEMBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 1915</sub>
+  <sub>01 · 2018</sub>
   <br><br>
-  <strong>Albert Einstein</strong>
+  <strong>Uncrewed spacecraft</strong>
   <br><br>
-  Albert Einstein presents the field equations of general relativity to the Prussian Academy of Sciences.
+  The robotic probe Insight lands on Elysium Planitia, Mars.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Albert_Einstein"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1999</sub>
-  <br><br>
-  <strong>Elián González</strong>
-  <br><br>
-  A five-year-old Cuban boy, Elián González, is rescued by fishermen while floating in an inner tube off the Florida coast.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Eli%C3%A1n_Gonz%C3%A1lez"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Uncrewed_spacecraft"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 1992</sub>
+  <sub>02 · 1965</sub>
   <br><br>
-  <strong>Federal Assembly (Czechoslovakia)</strong>
+  <strong>Astérix (satellite)</strong>
   <br><br>
-  The Federal Assembly of Czechoslovakia votes to split the country into the Czech Republic and Slovakia, with effect from January 1, 1993.
+  France launches Astérix, becoming the third nation to put an object in orbit using its own booster.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Federal_Assembly_(Czechoslovakia)"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Ast%C3%A9rix_(satellite)"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2025</sub>
+  <br><br>
+  <strong>Wang Fuk Court fire</strong>
+  <br><br>
+  The Wang Fuk Court fire, a catastrophic fire in Tai Po, Hong Kong, leaves at least 168 dead and 79 injured.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Wang_Fuk_Court_fire"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
