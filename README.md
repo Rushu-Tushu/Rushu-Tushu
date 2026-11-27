@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>26 NOVEMBER</sub>
+  <sub>27 NOVEMBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 2018</sub>
+  <sub>01 · 2001</sub>
   <br><br>
-  <strong>Uncrewed spacecraft</strong>
+  <strong>Hydrogen</strong>
   <br><br>
-  The robotic probe Insight lands on Elysium Planitia, Mars.
+  A hydrogen atmosphere is discovered on the extrasolar planet Osiris by the Hubble Space Telescope, the first atmosphere detected on an extrasolar planet.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Uncrewed_spacecraft"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 1965</sub>
-  <br><br>
-  <strong>Astérix (satellite)</strong>
-  <br><br>
-  France launches Astérix, becoming the third nation to put an object in orbit using its own booster.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Ast%C3%A9rix_(satellite)"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Hydrogen"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2025</sub>
+  <sub>02 · 2020</sub>
   <br><br>
-  <strong>Wang Fuk Court fire</strong>
+  <strong>Utah monolith</strong>
   <br><br>
-  The Wang Fuk Court fire, a catastrophic fire in Tai Po, Hong Kong, leaves at least 168 dead and 79 injured.
+  Days after the announcement of its discovery, the Utah monolith is removed by recreationists.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Wang_Fuk_Court_fire"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Utah_monolith"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 2024</sub>
+  <br><br>
+  <strong>Military Operations Command</strong>
+  <br><br>
+  Syrian rebel groups led by Hay'at Tahrir al-Sham launch a ground offensive into Syria.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/Military_Operations_Command"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
