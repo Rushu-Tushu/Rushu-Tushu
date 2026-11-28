@@ -27,46 +27,46 @@ I mainly work around development and backend systems, while constantly picking u
 <p align="center">
   <i>Three moments worth remembering.</i>
   <br>
-  <sub>27 NOVEMBER</sub>
+  <sub>28 NOVEMBER</sub>
 </p>
 
 <br>
 
 
 <p align="center">
-  <sub>01 · 2001</sub>
+  <sub>01 · 1983</sub>
   <br><br>
-  <strong>Hydrogen</strong>
+  <strong>Space Shuttle Columbia</strong>
   <br><br>
-  A hydrogen atmosphere is discovered on the extrasolar planet Osiris by the Hubble Space Telescope, the first atmosphere detected on an extrasolar planet.
+  Space Shuttle Columbia is launched on STS-9, the first mission to carry the European Space Agency's Spacelab module.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Hydrogen"><sub>Read more ↗</sub></a>
-</p>
-<br>
-<hr>
-<br>
-
-<p align="center">
-  <sub>02 · 2020</sub>
-  <br><br>
-  <strong>Utah monolith</strong>
-  <br><br>
-  Days after the announcement of its discovery, the Utah monolith is removed by recreationists.
-  <br><br>
-  <a href="https://en.wikipedia.org/wiki/Utah_monolith"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Space_Shuttle_Columbia"><sub>Read more ↗</sub></a>
 </p>
 <br>
 <hr>
 <br>
 
 <p align="center">
-  <sub>03 · 2024</sub>
+  <sub>02 · 1967</sub>
   <br><br>
-  <strong>Military Operations Command</strong>
+  <strong>Pulsar</strong>
   <br><br>
-  Syrian rebel groups led by Hay'at Tahrir al-Sham launch a ground offensive into Syria.
+  The first pulsar (PSR B1919+21, in the constellation of Vulpecula) is discovered by two astronomers Jocelyn Bell Burnell and Antony Hewish.
   <br><br>
-  <a href="https://en.wikipedia.org/wiki/Military_Operations_Command"><sub>Read more ↗</sub></a>
+  <a href="https://en.wikipedia.org/wiki/Pulsar"><sub>Read more ↗</sub></a>
+</p>
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <sub>03 · 1991</sub>
+  <br><br>
+  <strong>South Ossetia</strong>
+  <br><br>
+  South Ossetia declares independence from Georgia.
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/South_Ossetia"><sub>Read more ↗</sub></a>
 </p>
 
 <br>
